@@ -3,6 +3,26 @@ function takeANumber(katzDeliLine,name) {
   return `Welcome, ${name}. You are number ${katzDeliLine.length} in line.`;
 }
 
+
+function takeANumber2() {
+  
+  var count=0;
+  count += 1;
+  console.log(`Welcome, you are customet number ${count}!`)
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
 function nowServing(katzDeliLine) {
   if(katzDeliLine.length === 0) {
     return `There is nobody waiting to be served!`;
