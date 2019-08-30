@@ -13,8 +13,8 @@ function takeANumber2() {
 }
 
 
-
-
+takeANumber2();
+takeANumber2();
 
 
 
