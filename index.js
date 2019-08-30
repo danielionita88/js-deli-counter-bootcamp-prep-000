@@ -3,12 +3,12 @@ function takeANumber(katzDeliLine,name) {
   return `Welcome, ${name}. You are number ${katzDeliLine.length} in line.`;
 }
 
-
+ var count = 0;
+ 
 function takeANumber2() {
   
-  var count=0;
   count += 1;
-  console.log(`Welcome, you are customet number ${count}!`)
+  console.log(`Welcome, you are customer number ${count}!`)
   
 }
 
